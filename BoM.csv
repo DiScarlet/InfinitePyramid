@@ -1,0 +1,7 @@
+Name,Amount,Purpose
+Servo,1,To rotate the mechanism
+Cardboard,-,To have the base to put the LEDs on
+Addressable LEDs,Same as rows (to be discussed),To implement the logic
+Microcontroller,1,To control the servo and LEDs
+Breadboard,1,To prototype and connect components easily
+Jumper wires,A lot,To connect Microcontroller and LEDs
