@@ -5,3 +5,15 @@ Addressable LEDs,Same as rows (to be discussed),To implement the logic
 Microcontroller,1,To control the servo and LEDs
 Breadboard,1,To prototype and connect components easily
 Jumper wires,A lot,To connect Microcontroller and LEDs
+
+
+![cube](https://m.media-amazon.com/images/I/81QuZh30qfL.jpg)
++ 8x8x10 cube
+turn based
+1-color LED
+
+
+| Component | Cost | Purpose |
+| -- | -- | -- |
+| servo | - rotates mechanism |
+| cardboard | - | 
