@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1786861477
+BoM.csv::Translation::7453431173057907956::1786765557::1786861485::1::::<><><>0<>0<>ecfbcf703c3521b73f293d1e4fc8ab5e<>res://BoM.Amount.translation<*>res://BoM.Purpose.translation::
+README.md::TextFile::-1::1786858047::0::1::::<><><>0<>0<><>::
+BoM.Amount.translation::OptimizedTranslation::4574726595980971637::1786861485::0::1::::<><><>0<>0<><>::
+BoM.Purpose.translation::OptimizedTranslation::5007567470944581807::1786861485::0::1::::<><><>0<>0<><>::
+::res://scenes/::1786861356
+Main.tscn::PackedScene::7086017193072396246::1786860636::0::1::::<><><>0<>0<><>::uid://d1l65o54gvuhq::::res://scripts/Main.gd
+::res://scripts/::1786861356
+Block.gd::GDScript::7356000317946809481::1786858000::0::1::::Block<>Node2D<><>0<>0<><>::
+InputSetup.gd::GDScript::1056812662039307831::1786857996::0::1::::<>Node<><>0<>0<><>::
+Main.gd::GDScript::9008816724553238518::1786858029::0::1::::<>Node2D<><>0<>0<><>::
